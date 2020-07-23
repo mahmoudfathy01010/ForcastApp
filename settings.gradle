@@ -1,0 +1,5 @@
+rootProject.name='ForcastApp'
+include ':app'
+//for MVVM
+enableFeaturePreview("GRADLE_METADATA")
+
